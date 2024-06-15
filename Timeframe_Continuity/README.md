@@ -1,4 +1,4 @@
-#Timeframe Continuity Indicator for Ninjatrader
+# Timeframe Continuity Indicator for Ninjatrader
 
 ![](https://github.com/PhaedosAlgos/NinjaTrader/blob/main/Timeframe_Continuity/sample.gif)
 
